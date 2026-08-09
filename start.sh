@@ -1,2 +1,6 @@
 #!/bin/bash
 /opt/render/project/src/.venv/bin/uvicorn main:app --host 0.0.0.0 --port $PORT
+
+
+
+fix: add email-validator
