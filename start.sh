@@ -3,4 +3,3 @@
 
 
 
-fix: add email-validator
